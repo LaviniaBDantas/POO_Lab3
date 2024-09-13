@@ -1,6 +1,8 @@
 package org.example;
 
 public class NovaCalculadora {
+
+
     public int somar(int a, int b) {
         return a+b;
     }
